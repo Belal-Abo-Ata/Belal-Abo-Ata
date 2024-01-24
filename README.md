@@ -12,7 +12,7 @@
 </div>
 
 ---
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px></picture> About me
 - 🌱 I’m currently learning **React & MongoDB**
 
 - 📫 How to reach me **belalmohamed1992000@gmail.com**
